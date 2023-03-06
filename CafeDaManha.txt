@@ -1,0 +1,14 @@
+Algorítimo do café da manhã do Willian.
+
+1 - Acordar
+2 - Levantar da cama
+3 - Escovar os dentes 
+4 - Ir para a cozinha
+5 - Colocar a água para esquentar:
+     1- Colocar açúcar na água
+     2- Mexer a água 
+     3- Colocar o café no coador
+     4- Coar o café na cafeteira.
+6 - Não colocar a água para esquentar
+     1- Tomar achocolatado
+7 - Comer bolo com o uma das opções acima. 
